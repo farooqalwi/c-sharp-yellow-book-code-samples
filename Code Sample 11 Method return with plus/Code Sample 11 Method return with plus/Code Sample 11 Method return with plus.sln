@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Sample 11 Method return with plus", "Code Sample 11 Method return with plus.csproj", "{AF3EFDDE-1E02-4D71-807E-4978B2AE36C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3EFDDE-1E02-4D71-807E-4978B2AE36C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3EFDDE-1E02-4D71-807E-4978B2AE36C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3EFDDE-1E02-4D71-807E-4978B2AE36C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3EFDDE-1E02-4D71-807E-4978B2AE36C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4837C05F-6E6F-43CB-AE58-9DD9A48160ED}
+	EndGlobalSection
+EndGlobal

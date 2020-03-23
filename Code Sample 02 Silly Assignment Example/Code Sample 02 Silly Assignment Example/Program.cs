@@ -13,8 +13,6 @@ namespace Code_Sample_02_Silly_Assignment_Example
             Console.WriteLine(first);
             Console.WriteLine(second);
             Console.WriteLine(third);
-
-            Console.ReadLine();
         }
     }
 }

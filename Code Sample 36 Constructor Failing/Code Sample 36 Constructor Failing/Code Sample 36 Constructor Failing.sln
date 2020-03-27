@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Sample 36 Constructor Failing", "Code Sample 36 Constructor Failing.csproj", "{304E8F49-DBBE-472D-A5BF-2252950845DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304E8F49-DBBE-472D-A5BF-2252950845DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304E8F49-DBBE-472D-A5BF-2252950845DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304E8F49-DBBE-472D-A5BF-2252950845DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304E8F49-DBBE-472D-A5BF-2252950845DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD465D51-3299-472F-9948-C4B130607C40}
+	EndGlobalSection
+EndGlobal

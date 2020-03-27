@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Sample 43 Equals Method", "Code Sample 43 Equals Method.csproj", "{7E6167FB-0C5C-48DC-BCED-D36581E1F46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E6167FB-0C5C-48DC-BCED-D36581E1F46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6167FB-0C5C-48DC-BCED-D36581E1F46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6167FB-0C5C-48DC-BCED-D36581E1F46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6167FB-0C5C-48DC-BCED-D36581E1F46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB89B773-7FF2-4EFE-BAF8-8E0A38B6C764}
+	EndGlobalSection
+EndGlobal

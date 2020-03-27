@@ -1,5 +1,4 @@
-﻿using System;
-using System.IO;
+﻿using System.IO;
 
 namespace Code_Sample_20_Complete_File_Write
 {
@@ -9,10 +8,8 @@ namespace Code_Sample_20_Complete_File_Write
         {
             StreamWriter writer;
             writer = new StreamWriter("test.txt");
-            writer.WriteLine("hello wrold");
-            //writer.Close();
-
-            Console.Read();
+            writer.WriteLine("hello world");
+            writer.Close();
         }
     }
 }
